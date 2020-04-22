@@ -1,0 +1,13 @@
+# Gradle generated objects
+.gradle/
+
+# Ignore IDEA project file
+.idea
+**/*.iml
+**/*.ipr
+
+# Ignore Eclipse project file
+**/.classpath
+**/.project
+**/.settings/
+
