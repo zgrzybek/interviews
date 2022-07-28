@@ -1,7 +1,7 @@
 # Project
 - What is the expected project length?
 - What is expected from me in this project?
-- What are the biggest challenges in the project?
+- What problems do you currently have in the project?
 - What is the weekly/biweekly schedule, any regular meetings?
 - What can you tell me about the team I’ll be working with?
 
